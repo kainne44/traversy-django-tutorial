@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "venv/bin/python",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "hack"
+}
